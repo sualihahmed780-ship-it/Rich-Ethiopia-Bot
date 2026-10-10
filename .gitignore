@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/*.db
+data/books/*.pdf
+*.log
+.venv/
+venv/
